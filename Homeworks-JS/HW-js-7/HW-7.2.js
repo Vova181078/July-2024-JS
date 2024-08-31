@@ -193,3 +193,7 @@ Array.prototype.myForEach = function (callback) {
 };
 
 [15,25,18].myForEach((x) => console.log(x));
+
+
+
+
